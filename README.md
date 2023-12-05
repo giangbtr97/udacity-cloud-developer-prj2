@@ -22,3 +22,6 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+## Application URL
+http://image-filter-app-dev2.us-east-1.elasticbeanstalk.com
